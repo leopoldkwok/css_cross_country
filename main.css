@@ -1,3 +1,11 @@
+body {
+	font-family: Arial, sans-serif;
+}
+
+p, .ski_lift, h6 {
+	font-size: 12px;
+}
+
 h1 {
 	color: #aba4ac;
 	margin-bottom: 10px;
@@ -84,4 +92,11 @@ h3 {
 
 .ski, .sled {
 	z-index: 1;
+}
+
+.sale {
+	display: block;
+	padding: 0 10px;
+	margin: 5px 0;
+	text-align: center;
 }
