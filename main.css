@@ -47,3 +47,41 @@ img {
 .featured p {
 	color: #fff;
 }
+
+.downhill {
+	border: 5px solid #fff;
+	padding-left: 10px;
+	padding-right: 5px;
+	width: 100px;
+} 
+
+/*total width = 125px = 100px content width + 15px (left & right) padding + 10px(5px x 2) border width */
+
+
+sup {
+	font-size: 75%;
+	line-height: 0;
+	vertical-align: baseline;
+	position: relative;
+	top: -0.5em;
+}
+
+article {
+	position: relative;
+}
+
+h3 {
+	position: absolute;
+	right: 10px;
+	top: 10px;
+}
+
+.ski {
+	position: fixed;
+	right: 10px;
+	top: 10px;
+} 
+
+.ski, .sled {
+	z-index: 1;
+}
