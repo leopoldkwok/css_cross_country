@@ -31,3 +31,19 @@ img {
 .sled {
 	float: left;
 }
+
+.img {
+	float: left;
+}
+
+.intro {
+	clear: both;
+}
+
+.featured {
+	color: #aba4ac;
+} 
+
+.featured p {
+	color: #fff;
+}
