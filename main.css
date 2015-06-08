@@ -1,0 +1,33 @@
+h1 {
+	color: #aba4ac;
+	margin-bottom: 10px;
+}
+
+.intro {
+	color: #aba4ac;
+	margin-bottom: 10px;
+}
+
+#header {
+	color: #aba4ac;
+	margin-bottom: 10px;
+}
+
+/*compound selectors:*/
+
+h1#header {
+	color: #aba4ac;
+	margin-bottom: 10px;
+}  
+
+img {
+	float: left;
+}
+
+.ski {
+	float: right;
+}
+
+.sled {
+	float: left;
+}
